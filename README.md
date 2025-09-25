@@ -1,1 +1,1 @@
-# kecedasan-buatan-prompt
+# kecerdasan-buatan-prompt
